@@ -1,4 +1,6 @@
 % Script for extracting monthly PCR-ModFlow output for Only BC
+% Date modifed: June 1, 2022
+
 % Variables:
 % 1)  Flow from the aquifer to large rivers (Qriv )
 % 2)  Flow from the aquifer to small rivers (Qdrn)
