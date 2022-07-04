@@ -22,6 +22,10 @@ Details of each folder is as below
 - _combQ.m_ : Function for combining maximum low flow, miminum moderate flow and minimum high flow 
 - _flowCondition.m_ :  Function for finding the condition of flow from mean annual discharge and mean monthly discharge [Not used in the main script]
 
+#### Analysis-Plotting
+- _Script_paper.m_ : Script for plotting the figures for paper
+- _crameri.m_ : Function returns perceptually-uniform scientific colormaps created by Fabio Crameri.  <http://www.fabiocrameri.ch/colourmaps.php Fabio Crameri>
+- _multiple_boxplot.m_ : Function for plotting multiple box plots in a single figure. Matlab code modified by the code by Ander Biguri
 
 ## Project description
 In this study we develop two methods for estimating groundwater contribution to environmental flows: 1) a groundwater-centric method and 2) a surface water-centric method. The two methods are demonstrated using the western province of Canada, British Columbia as a case study. The framework presented in this study can be implemented across different spatial and temporal scales for different regions and globally, in data-scarce, hydrologically complex landscapes. 
