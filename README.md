@@ -6,7 +6,7 @@ The repository will be organised into three folders: 1) Data extraction, 2) Esti
 To access all details of the data used, visit README-data.md.
 To access all the final outputs from this project, visit [add dataverse link]
 
-Details of each folder is as below
+Details of each folder in Matlab-Code folder is as below
 
 #### Data extraction
 - _Script_PCR_MODFLOW_extractBC_ : Script for extracting monthly PCR-ModFlow output for Only British Columbia
@@ -26,6 +26,8 @@ Details of each folder is as below
 - _Script_paper.m_ : Script for plotting the figures for paper
 - _crameri.m_ : Function returns perceptually-uniform scientific colormaps created by Fabio Crameri.  <http://www.fabiocrameri.ch/colourmaps.php Fabio Crameri>
 - _multiple_boxplot.m_ : Function for plotting multiple box plots in a single figure. Matlab code modified by the code by Ander Biguri
+
+_Note_ : All file paths in the matlab scripts need to be modified to match the local working directory, when  downloaded and used in a local system
 
 ## Project description
 In this study we develop two methods for estimating groundwater contribution to environmental flows: 1) a groundwater-centric method and 2) a surface water-centric method. The two methods are demonstrated using the western province of Canada, British Columbia as a case study. The framework presented in this study can be implemented across different spatial and temporal scales for different regions and globally, in data-scarce, hydrologically complex landscapes. 
