@@ -1,9 +1,9 @@
 # Groundwater contribution to environmental flows
 
-This repository contains the workflow of Mohan et al. (in review). **Quantifying groundwater's contribution to regional environmental flows in diverse hydrologic landscapes** Pre print: doi 10.1002/essoar.10511792.1 
+This repository contains the workflow of Mohan et al. (in review). **Quantifying groundwater's contribution to regional environmental flows in diverse hydrologic landscapes**  Pre print doi: <u>doi.org/10.1002/essoar.10511792.1</u>
 
 The repository will be organised into three folders: 1) Data extraction, 2) Estimation, 3) Analysis-Plotting
-To access all details of the data used, visit README-data.md.
+To access all details of the data used, visit README-Data.md.
 To access all the final outputs from this project, visit [add dataverse link]
 
 Details of each folder in Matlab-Code folder is as below
