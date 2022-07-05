@@ -4,7 +4,7 @@ This repository contains the workflow of Mohan et al. (in review). **Quantifying
 
 The repository will be organised into three folders: 1) Data extraction, 2) Estimation, 3) Analysis-Plotting
 To access all details of the data used, visit README-Data.md.
-To access all the final outputs from this project, visit [add dataverse link]
+To access all the final outputs from this project follow the link https://doi.org/10.5683/SP3/938XJR
 
 Details of each folder in Matlab-Code folder is as below
 
