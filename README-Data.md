@@ -30,11 +30,18 @@ from the stream to the groundwater, negative value) (m/month).
 
 ### Biogeoclimatic zones
 - **Description**: an integrated hierarchical classification scheme that combines climate, vegetation and site classifications.
-    - 1	Coastal Mountain-heather Alpine	CM
+    <details><summary> Biogeoclimatic zones </summary> 
+  <p>
+      
+    - 1 Coastal Mountain-heather Alpine	CM
+      
     - 2	Interior Mountain-heather Alpine	IM
-    - 3	Mountain Hemlock	MH
+      
+     - 3 Mountain Hemlock	MH
+      
     -	4	Sub-Boreal Spruce	SBS
-    - 5	Montane Spruce	MS
+      
+    -   5	Montane Spruce	MS
     -	6	Engelmann Spruce -- Subalpine Fir	ES
     -	7	Interior Douglas-fir	ID
     -	8	Coastal Western Hemlock	CWH
@@ -46,6 +53,9 @@ from the stream to the groundwater, negative value) (m/month).
     -	14	Spruce -- Willow -- Birch	SWB
     -	15	Boreal White and Black Spruce	BWBS
     -	16	Coastal Douglas-fir	CD
+      </p>
+</details>
+
 - **Data source**:  Biogeoclimatic Ecosystem Classification (BEC) and Ecology Research  program of British Columbia
 - **Web-link**: https://www.for.gov.bc.ca/hre/becweb/resources/maps/GISdataDownload.html
 - **Temporal range**: NA
@@ -56,6 +66,9 @@ from the stream to the groundwater, negative value) (m/month).
 
 ### Hydrozones
 - **Description**: Zones that represent areas of homogeneous hydrologic and geomorphological characteristics
+    <details><summary> Hydrozones </summary> 
+  <p>
+      
   - 1	Costal Mountains	
   - 2	georgia basin	
   - 3	North interior	
@@ -64,6 +77,9 @@ from the stream to the groundwater, negative value) (m/month).
   - 6	South interior	
   - 7	South east mountains	
   - 8	Vancouver island
+           </p>
+</details>
+
 - **Data source**: Environmental Reporting BC, BC Data Catalogue
 - **Web-link**: https://catalogue.data.gov.bc.ca/dataset/hydrology-hydrologic-zone-boundaries-of-british-columbia
 - **Temporal range**: NA
