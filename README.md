@@ -26,6 +26,7 @@ Details of each folder in Matlab-Code folder is as below
 - _Script_paper.m_ : Script for plotting the figures for paper
 - _crameri.m_ : Function returns perceptually-uniform scientific colormaps created by Fabio Crameri.  <http://www.fabiocrameri.ch/colourmaps.php Fabio Crameri>
 - _multiple_boxplot.m_ : Function for plotting multiple box plots in a single figure. Matlab code modified by the code by Ander Biguri
+- _arcgridwrite.m_ : Function to write gridded data set in Arc ASCII Grid Format.  Matlab code modified by the code by A.Stevens @ USGS 
 
 _Note_ : All file paths in the matlab scripts need to be modified to match the local working directory, when  downloaded and used in a local system
 
