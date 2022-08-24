@@ -1,8 +1,8 @@
 # Groundwater contribution to environmental flows
 
-This repository contains the workflow of Mohan et al. (in review). **Quantifying groundwater's contribution to regional environmental flows in diverse hydrologic landscapes**  Pre print doi: <u>doi.org/10.1002/essoar.10511792.1</u>
+This repository contains the workflow of Mohan et al. (in review). **Quantifying groundwater's contribution to regional environmental flows in diverse hydrologic landscapes**  Pre print doi: https://www.essoar.org/doi/10.1002/essoar.10511792.1
 
-The repository will be organised into three folders: 1) Data extraction, 2) Estimation, 3) Analysis-Plotting
+The repository is organised into three folders: 1) Data extraction, 2) Estimation, 3) Analysis-Plotting
 To access all details of the data used, visit README-Data.md.
 To access all the final outputs from this project follow the link https://doi.org/10.5683/SP3/938XJR
 
@@ -44,4 +44,4 @@ Chinchu Mohan
 chinchu.mohan@usask.ca
 
 ## Last update
-July-04-2022
+Aug-24-2022
