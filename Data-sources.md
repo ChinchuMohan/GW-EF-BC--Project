@@ -7,7 +7,7 @@
 - **Temporal range**:Jan-1960 to Dec-2010.
 - **Temporal scale**: Monthly.
 - **Spatial resolution**: 5-arcminutes (approximately 10x10km).
-- **Spatial extend**: British Columbia (BC).
+- **Spatial extent**: British Columbia (BC).
 
 ### Baseflow [Groundwater discharge] data
 - **Description**: Routed monthly groundwater discharge to the stream (leaving the aquifer, positive value) or to the groundwater (infiltrating
@@ -17,7 +17,7 @@ from the stream to the groundwater, negative value) (m/month).
 - **Temporal range**:Jan-1960 to Dec-2010.
 - **Temporal scale**: Annual (averaged per year).
 - **Spatial resolution**: 5-arcminutes (approximately 10x10km).
-- **Spatial extend**: British Columbia (BC).
+- **Spatial extent**: British Columbia (BC).
 
 ### Precipitation data
 - **Description**: Annual precipitation received in British Columbia (m/month).
@@ -26,7 +26,7 @@ from the stream to the groundwater, negative value) (m/month).
 - **Temporal range**:Jan-1960 to Dec-2010.
 - **Temporal scale**: Annual.
 - **Spatial resolution**: 5-arcminutes (approximately 10x10km).
-- **Spatial extend**: British Columbia (BC).
+- **Spatial extent**: British Columbia (BC).
 
 ### Biogeoclimatic zones
 - **Description**: an integrated hierarchical classification scheme that combines climate, vegetation and site classifications.
@@ -61,7 +61,7 @@ from the stream to the groundwater, negative value) (m/month).
 - **Temporal range**: NA
 - **Temporal scale**:NA
 - **Spatial resolution**: 5-arcminutes (approximately 10x10km)..
-- **Spatial extend**: British Columbia (BC).
+- **Spatial extent**: British Columbia (BC).
 
 
 ### Hydrozones
@@ -85,6 +85,6 @@ from the stream to the groundwater, negative value) (m/month).
 - **Temporal range**: NA
 - **Temporal scale**:NA
 - **Spatial resolution**: 5-arcminutes (approximately 10x10km).
-- **Spatial extend**: British Columbia (BC).
+- **Spatial extent**: British Columbia (BC).
 
 
