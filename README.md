@@ -3,7 +3,8 @@
 This repository contains the workflow of Mohan et al. (in review). **Quantifying groundwater's contribution to regional environmental flows in diverse hydrologic landscapes**  Pre print doi: https://www.essoar.org/doi/10.1002/essoar.10511792.1
 
 The repository is organised into three folders: 1) Data extraction, 2) Estimation, 3) Analysis-Plotting
-To access all details of the data used, visit README-Data.md.
+To access all details of the data used, visit [Data-sources.md](https://github.com/ChinchuMohan/Groundwater-Eflows-British-Columbia-Project/blob/main/Data-sources.md)
+
 To access all the final outputs from this project follow the link https://doi.org/10.5683/SP3/938XJR
 
 Details of each folder in Matlab-Code folder is as below
