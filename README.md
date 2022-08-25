@@ -29,7 +29,7 @@ Details of each folder in Matlab-Code folder is as below
 - _multiple_boxplot.m_ : Function for plotting multiple box plots in a single figure. Matlab code modified by the code by Ander Biguri. Click [here](https://www.mathworks.com/matlabcentral/fileexchange/47233-multiple_boxplot-m) for original code 
 - _arcgridwrite.m_ : Function to write gridded data set in Arc ASCII Grid Format.  Matlab code modified by the code by A.Stevens @ USGS. Click [here](https://www.mathworks.com/matlabcentral/fileexchange/16176-arcgridwrite) for original code
 
-_Note_ : All file paths in the matlab scripts need to be modified to match the local working directory, when  downloaded and used in a local system
+_Note_ : All file paths in the matlab scripts need to be modified to match the local working directory, when  downloaded and used in a local system. Check for _cd_ command and _save_ command in the scripts for directory paths. 
 
 ## Project description
 In this study we develop two methods for estimating groundwater contribution to environmental flows: 1) a groundwater-centric method and 2) a surface water-centric method. The two methods are demonstrated using the western province of Canada, British Columbia as a case study. The framework presented in this study can be implemented across different spatial and temporal scales for different regions and globally, in data-scarce, hydrologically complex landscapes. 
